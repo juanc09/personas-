@@ -1,0 +1,14 @@
+vector de objeto, archivos + swing 
+
+Vector objeto: 
+directorio:
+N. Documento
+Tipo de documento (TI, RC, CC, CE)
+
+Nombres
+Apellidos 
+fecha de nacimiento
+email
+N. Celular
+
+La tabla de información se debe guardar y cargar de un archivo.
